@@ -1,1 +1,0 @@
-SELECT * FROM webapde_mp.users;
