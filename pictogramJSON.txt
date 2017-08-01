@@ -1,0 +1,4 @@
+//template:
+//{userName, firstName, lastName, bio, password}
+
+{WhoM@n12, Hue, Mann, Im a person, homoSapiens4lyf}
